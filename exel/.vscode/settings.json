@@ -1,0 +1,15 @@
+{
+    "python.pythonPath": "C:\\Users\\62831\\Documents\\GitHub\\Pandas_Exel\\pandas\\Scripts\\python.exe",
+    "code-runner.executorMap": {
+        "javascript": "node",
+        "php": "C:\\php\\php.exe",
+        "python": "C:\\Users\\62831\\Documents\\GitHub\\Pandas_Exel\\pandas\\Scripts\\python.exe",
+        "perl": "perl",
+        "ruby": "C:\\Ruby23-x64\\bin\\ruby.exe",
+        "go": "go run",
+        "html": "\"C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe\"",
+        "java": "cd $dir && javac $fileName && java $fileNameWithoutExt",
+        "c": "cd $dir && gcc $fileName -o $fileNameWithoutExt && $dir$fileNameWithoutExt"
+    }
+    
+}
