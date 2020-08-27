@@ -1,2 +1,2 @@
 # Pandas
-pandas learn python 3
+belajar pandas dan openpyxl python 3. saya berhenti belajar python dulu :) mau belajar java !
